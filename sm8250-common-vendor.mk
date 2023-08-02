@@ -727,7 +727,6 @@ PRODUCT_PACKAGES += \
     libthermalclient \
     CneApp \
     IWlanService \
-    SoterService \
     TimeService \
     PowerOffAlarm \
     QtiTelephonyService \
